@@ -46,5 +46,7 @@ This project implements a **Smart Trolley** using an **Arduino**, **RFID module*
 
 ---
 
-## 📲 Bluetooth Output Example
+![WhatsApp Image 2025-04-09 at 21 21 01](https://github.com/user-attachments/assets/40287e1f-b17b-4547-b09e-3b8eceb7b5d9)
+
+
 
